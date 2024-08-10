@@ -1,7 +1,7 @@
 # P-ALPLE-Support
 
 ## Bug Reporting
-If you have noticed that P-ALPLE is not working quite right, you can open an [issue](https://github.com/polrambora-org/P-ALPLE-Support/issues/new), label it as "Bug" and tell the issue, attachments and common sense required.
+If you have noticed that P-ALPLE is not working quite right, you can open an [issue](https://github.com/polrambora-org/P-ALPLE-Support/issues/new), label it as "Bug" and describe the issue, attachments and common sense required.
 
 Attachments can be:
  > Screenshots
